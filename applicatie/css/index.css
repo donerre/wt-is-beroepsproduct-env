@@ -1,0 +1,40 @@
+main{
+    margin-top: 3%;
+}
+
+main h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 48px;
+    text-decoration: underline;
+    color: yellowgreen;
+}
+
+#alvastWeten{
+    margin-top: 3%;
+    width: 100%;
+    height: 10vh;
+    margin-left: 12.5%;
+    font-size: larger;
+}
+
+#alvastWeten a{
+    color: black;
+}
+
+#alvastWeten a:hover{
+    background-color: lightgray;
+    opacity: 0.5;
+}
+
+.alvastWetenFrames{
+    width: 25%;
+    height: auto;
+    float: left;
+    text-align: center;
+}
+
+.alvastWetenFrames img{
+    width: 100%;
+    height: 100%;
+}
